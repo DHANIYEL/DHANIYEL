@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://www.linkedin.com/in/dhaniyel-darvesh-256987280/" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://x.com/Dhaniiiyll" width="52" height="40" alt="twitter logo"  />
+  <img src="https://www.instagram.com/dhaniiiyll/" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
