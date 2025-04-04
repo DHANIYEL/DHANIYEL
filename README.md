@@ -49,7 +49,6 @@
   </style>
 
   <div class="tech-grid">
-    <!-- Row 1 -->
     <div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" title="HTML5"/></div>
     <div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" title="CSS3"/></div>
     <div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="Bootstrap" title="Bootstrap"/></div>
@@ -58,8 +57,6 @@
     <div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript"/></div>
     <div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React"/></div>
     <div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" title="Next.js"/></div>
-    
-    <!-- Row 2 -->
     <div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" title="Flutter"/></div>
     <div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="32" alt="Angular" title="Angular"/></div>
     <div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="Dart" title="Dart"/></div>
