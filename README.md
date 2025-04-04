@@ -10,6 +10,13 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=790b76112o8k5pbwa2luebe3vfpk75h8usowr9uwj1v3ri3o&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+
+###
+
+<div align="center">
 
 ### 🛠 Tech Stack
 
