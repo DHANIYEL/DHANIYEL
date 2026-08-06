@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhaniyel-darvesh-256987280">
+  <a href="https://www.linkedin.com/in/dhaniyel-darvesh-256987280" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/dhaniiiyll">
+  <a href="https://www.instagram.com/dhaniiiyll" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="55" alt="Instagram" />
   </a>
 </p>
