@@ -2,6 +2,7 @@
   <a href="https://www.linkedin.com/in/dhaniyel-darvesh-256987280" style="display:inline-block;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" style="display:block;" />
   </a>
+  
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/dhaniiiyll" style="display:inline-block;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="48" style="display:block;" />
