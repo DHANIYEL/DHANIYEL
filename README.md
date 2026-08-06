@@ -1,18 +1,21 @@
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/dhaniyel-darvesh-256987280">
-        <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn" />
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://www.instagram.com/dhaniiiyll">
-        <img src="https://skillicons.dev/icons?i=instagram" height="55" alt="Instagram" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhaniyel-darvesh-256987280">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn" />
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/dhaniiiyll">
+    <img src="https://skillicons.dev/icons?i=instagram" height="55" alt="Instagram" />
+  </a>
+</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=790b76112o8k5pbwa2luebe3vfpk75h8usowr9uwj1v3ri3o&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
 
 ###
 
@@ -44,4 +47,3 @@
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://developer.apple.com/app-store/)
 
 </div>
-
