@@ -20,8 +20,8 @@
 
 
 <h2>
-  <span style="background-color:#f3f4f6; padding:10px 20px; border-radius:12px;">
-    🛠 Tech Stack
+  <span style="background-color:#fff; padding:10px 20px; border-radius:12px;">
+    Tech Stack
   </span>
 </h2>
 
