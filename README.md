@@ -21,7 +21,7 @@
 
 <p align="center">
 
-![](https://img.shields.io/badge/🛠%20Tech%20Stack-F8F9FA?style=for-the-badge&labelColor=F8F9FA&color=F8F9FA&logoColor=black)
+![](https://img.shields.io/badge/🛠_Tech_Stack-lightgrey?style=for-the-badge)
 
 </p>
 
