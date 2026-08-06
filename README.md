@@ -1,11 +1,13 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/dhaniyel-darvesh-256987280/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="45" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/dhaniiiyll/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="45" height="45" />
-  </a>
+
+<a href="https://www.linkedin.com/in/dhaniyel-darvesh-256987280/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/dhaniiiyll/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </div>
 
 ###
