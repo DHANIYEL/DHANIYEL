@@ -19,11 +19,11 @@
 <div align="center">
 
 
-<h2>
-  <span style="background-color:#ffffff; padding:10px 20px; border-radius:12px;">
-    Tech Stack
-  </span>
-</h2>
+<p align="center">
+
+![](https://img.shields.io/badge/🛠%20Tech%20Stack-F8F9FA?style=for-the-badge&labelColor=F8F9FA&color=F8F9FA&logoColor=black)
+
+</p>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
